@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FindWhatYouWant</string>
+    <string name="title_activity_emergency">Emergency</string>
+    <string name="title_activity_buildings">Buildings</string>
+    <string name="title_activity_transportation">Transportation</string>
+    <string name="title_activity_entertainment">Entertainment</string>
+</resources>
